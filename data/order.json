@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "img":"../../../data/images/order/order1.png",
+            "name":"重庆鸡公煲",
+            "time":"2021-02-06 20:27",
+            "state":"已送达",
+            "product":"重庆鸡公煲",
+            "price":"￥21.70"
+        },
+        {
+            "img":"../../../data/images/order/order2.png",
+            "name":"武大郎烧饼",
+            "time":"2021-01-12 09:44",
+            "state":"已送达",
+            "product":"武大郎烧饼",
+            "price":"￥18.20"
+        },
+        {
+            "img":"../../../data/images/order/order3.png",
+            "name":"阿水大杯茶",
+            "time":"2021-01-01 20:06",
+            "state":"已送达",
+            "product":"茉绿奶香+椰果等2件商品",
+            "price":"￥19.20"
+        },
+        {
+            "img":"../../../data/images/order/order4.png",
+            "name":"妖精酥肉饭",
+            "time":"2021-02-06 20:27",
+            "state":"您主动取消",
+            "product":"鲜汁番茄酥肉",
+            "price":"￥19.88"
+        },
+        {
+            "img":"../../../data/images/order/order5.png",
+            "name":"轰炸大鱿鱼",
+            "time":"2020-12-13 12:07",
+            "state":"已送达",
+            "product":"轰炸黄金酥脆大鸡排等3件商品",
+            "price":"￥22.16"
+        },
+        {
+            "img":"../../../data/images/order/order6.png",
+            "name":"鸭途",
+            "time":"2020-11-17 14:55",
+            "state":"已送达",
+            "product":"甜辣鸭肠-大份等3件商品",
+            "price":"￥22.70"
+        },
+        {
+            "img":"../../../data/images/order/order7.png",
+            "name":"机器猫",
+            "time":"2020-11-16 12:34",
+            "state":"已送达",
+            "product":"奶茶三兄弟",
+            "price":"￥22.00"
+        },
+        {
+            "img":"../../../data/images/order/order8.png",
+            "name":"烤骨头",
+            "time":"2020-11-16 12:34",
+            "state":"已送达",
+            "product":"烤脊骨等2件商品",
+            "price":"￥42.00"
+        },
+        {
+            "img":"../../../data/images/order/order9.png",
+            "name":"正新鸡排",
+            "time":"2020-11-20 14:59",
+            "state":"已送达",
+            "product":"正新重芝士鸡排",
+            "price":"￥21.60"
+        },
+        {
+            "img":"../../../data/images/order/order10.png",
+            "name":"西西里意大利面",
+            "time":"2020-12-15 10:24",
+            "state":"您主动取消",
+            "product":"意大利番茄菌菇面",
+            "price":"￥16.70"
+        }
+    ]
+}
